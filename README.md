@@ -1,6 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/CurrentRiyu/portfolio/blob/main/assets/home_pc.png?raw=true)
+![image](https://github.com/CurrentRiyu/portfolio/blob/main/assets/home_cel.jpg?raw=true)
 
 ## Ferramentas utilizadas:
 
