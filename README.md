@@ -12,8 +12,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Victor Lima
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/victor-lima-fernandes-2203171bb/
 
 ```
