@@ -1,5 +1,7 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
+## Link para visualização: https://currentriyu.github.io/portfolio/
+
 ![image](https://github.com/CurrentRiyu/portfolio/blob/main/assets/home_pc.png?raw=true)
 ![image](https://github.com/CurrentRiyu/portfolio/blob/main/assets/home_cel.jpg?raw=true)
 
